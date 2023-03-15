@@ -2,11 +2,13 @@
     {
         "id":1,
         "name":"Goku",
-        "imageUrlName":"goku"
+        "imageUrlName":"goku",
+        "imageHostUrl":"https://heroduran.github.io/png-mp4-randomizer-test-files/"
     },
     {
         "id":2,
         "name":"Vegeta",
-        "imageUrlName":"vegeta"
+        "imageUrlName":"vegeta",
+        "imageHostUrl":"https://heroduran.github.io/png-mp4-randomizer-test-files/"
     }
 ]
